@@ -7,7 +7,8 @@ Starter kit developed by - [Nest](https://github.com/nestjs/nest) framework Type
 ## Installation
 
 ```bash
-npm install
+# install dependencies
+$ npm install
 ```
 
 ## Running the app
