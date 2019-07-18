@@ -50,7 +50,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## Stay in touch
 
 - Author - [Petr Nikolas Prokop](https://www.petrnikolas.com/)
-- Repo - [https://nestjs.com]()
+- Repo - [https://nestjs.com](https://github.com/PetrNikolas/nest-starter)
 
 ## License
 
