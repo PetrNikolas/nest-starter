@@ -20,7 +20,7 @@
     "deploy": "npm run format && npm run lint && npm run test && npm run test:e2e && npm run build && now"
   },
   "dependencies": {
-    "@nestjs/common": "^6.0.4",
+    "@nestjs/common": "^10.2.8",
     "@nestjs/core": "^6.0.4",
     "@nestjs/microservices": "^6.0.4",
     "@nestjs/platform-express": "^6.0.4",
